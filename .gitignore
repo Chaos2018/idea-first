@@ -36,4 +36,8 @@
 .Trashes  
 Icon?  
 ehthumbs.db  
-Thumbs.db  
+Thumbs.db
+.idea/idea-first.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
